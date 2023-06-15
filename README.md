@@ -1,1 +1,1 @@
-# oil_extraction
+# gold_extraction
